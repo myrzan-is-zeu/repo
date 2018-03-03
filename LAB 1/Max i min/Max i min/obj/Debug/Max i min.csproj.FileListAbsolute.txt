@@ -1,0 +1,7 @@
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\obj\Debug\Max i min.csprojResolveAssemblyReference.cache
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\obj\Debug\Max i min.csproj.CoreCompileInputs.cache
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\bin\Debug\Max i min.exe.config
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\bin\Debug\Max i min.exe
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\bin\Debug\Max i min.pdb
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\obj\Debug\Max i min.exe
+C:\Users\Myrz\Desktop\PP2\LAB 1\Max i min\Max i min\obj\Debug\Max i min.pdb

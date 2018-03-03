@@ -1,0 +1,6 @@
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\bin\Debug\List of prime numbers.exe.config
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\bin\Debug\List of prime numbers.exe
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\bin\Debug\List of prime numbers.pdb
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\obj\Debug\List of prime numbers.csproj.CoreCompileInputs.cache
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\obj\Debug\List of prime numbers.exe
+C:\Users\Myrz\Desktop\PP2\LAB 2\List of prime numbers\List of prime numbers\obj\Debug\List of prime numbers.pdb

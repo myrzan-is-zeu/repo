@@ -1,0 +1,7 @@
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\bin\Debug\farManager.exe.config
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\bin\Debug\farManager.exe
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\bin\Debug\farManager.pdb
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\obj\Debug\farManager.csprojResolveAssemblyReference.cache
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\obj\Debug\farManager.csproj.CoreCompileInputs.cache
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\obj\Debug\farManager.exe
+C:\Users\Myrz\Desktop\PP2\LAB 3\farManager\farManager\obj\Debug\farManager.pdb
